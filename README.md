@@ -67,55 +67,22 @@ All comparative experiments are built on these two generator families.
 ---
 
 ## Main Theoretical Results
-### 1. Lie-Restricted Regime
-For a system equipped with polynomial-dimensional Lie algebra $\mathfrak{g}_n$:
-$$
-\dim(\mathfrak g_n)=\mathrm{poly}(n)
-$$
-The gradient variance satisfies the lower bound:
-$$
-\operatorname{Var}_{\theta}
-\left(
-\frac{\partial \mathcal L}{\partial \theta_k}
-\right)
-\ge
-\frac{C}{\mathrm{poly}(n)}
-$$
-This bound rules out barren plateaus and ensures good trainability.
 
-### 2. Fully Expressive Regime
-For the full Lie algebra $\mathfrak{su}(2^n)$ of $n$-qubit systems:
-$$
-\operatorname{Var}_{\theta}
-\left(
-\frac{\partial \mathcal L}{\partial \theta_k}
-\right)
-=
-O(2^{-n})
-$$
-Gradients decay exponentially with qubit number $n$, which causes severe gradient concentration and barren plateaus.
+| Regime | Gradient Variance |
+|---------|---------|
+| Lie-restricted (\(\dim(\mathfrak g_n)=\mathrm{poly}(n)\)) | \(\mathrm{Var}(\partial\mathcal L/\partial\theta_k)\ge C/\mathrm{poly}(n)\) |
+| Fully expressive (\(\mathfrak{su}(2^n)\)) | \(\mathrm{Var}(\partial\mathcal L/\partial\theta_k)=O(2^{-n})\) |
 
-### 3. Variance Enhancement Ratio
-Define the ratio of average gradient variance between restricted model and full model:
-$$
-R_n
-=
-\frac{
-\operatorname{Var}_{\mathfrak g_n}
-\left(\frac{\partial \mathcal L}{\partial \theta_k}\right)
-}{
-\operatorname{Var}_{\mathfrak{su}(2^n)}
-\left(\frac{\partial \mathcal L}{\partial \theta_k}\right)
-}
-=
-\Omega
-\left(
-\frac{2^n}
-{\dim(\mathfrak g_n)}
-\right)
-$$
+The variance enhancement factor satisfies
 
----
+\[
+R_n=
+\Omega\!\left(
+\frac{2^n}{\dim(\mathfrak g_n)}
+\right),
+\]
+
+demonstrating an exponential trainability advantage of Lie-restricted quantum models.
 
 ## Repository Structure
 ```
