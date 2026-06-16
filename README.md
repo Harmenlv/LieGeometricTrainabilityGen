@@ -62,7 +62,9 @@ $$R_n= \Omega\!\left( \frac{2^n}{\dim(\mathfrak g_n)} \right),$$
 demonstrating an exponential trainability advantage of Lie-restricted quantum models.
 
 ---
-📁 Repository Structure
+## 📁 Repository Structure
+
+```text
 LieGeometricTrainability/
 │
 ├── README.md
@@ -94,6 +96,8 @@ LieGeometricTrainability/
 │
 └── docs/
     └── paper.pdf
+```
+
 
 ---
 🧪 Experiments Description
