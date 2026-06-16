@@ -171,7 +171,7 @@ If you use this code or refer to this work in your research, please cite the fol
   journal={Physics Scripta},
   year={2026},
   doi={10.1088/1402-4896/ae7d6d},
-  url={https://iopscience.iop.org/article/10.1088/1402-4896/ae7d6d}
+  url={[https://iopscience.iop.org/article/10.1088/1402-4896/ae7d6d](https://iopscience.iop.org/article/10.1088/1402-4896/ae7d6d)}
 }
 
 ---
