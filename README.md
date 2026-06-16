@@ -7,7 +7,9 @@ Official implementation for the research paper:
 *Physics Scripta (Accepted Manuscript, 2026)*
 
 DOI: https://doi.org/10.1088/1402-4896/ae7d6d
+
 Journal Page: https://iopscience.iop.org/article/10.1088/1402-4896/ae7d6d
+
 GitHub Repository: https://github.com/Harmenlv/LieGeometricTrainability.git
 
 ---
