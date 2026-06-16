@@ -21,7 +21,9 @@ The Lie algebra constructed by Hamiltonian operators dominates the dimension of 
 ---
 🔍 Framework & Figure Explanation
 Two key figures are placed in the repository root directory to illustrate the core logic and model structure:
-
+Framework & Figure Explanation
+Two key figures are placed in the repository root directory to illustrate the core logic and model structure:
+<p align="center"> <img src="framework.png" width="1000"> </p> <p align="center"> <img src="Generator_Structure.png" width="1000"> </p>
 
 1. framework.png : Core Theoretical Chain
 The complete causal logic of this work is summarized as follows:
