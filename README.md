@@ -4,8 +4,11 @@ Lie-Geometric Trainability of Quantum Dynamical Systems
 Official implementation for the research paper:
 📄 Lie-Geometric Trainability of Quantum Dynamical Systems: Avoiding Barren Plateaus via Low-Dimensional Lie Subalgebras
 Physics Scripta (Accepted Manuscript, 2026)
+
 DOI: https://doi.org/10.1088/1402-4896/ae7d6d
+
 Journal Page: https://iopscience.iop.org/article/10.1088/1402-4896/ae7d6d
+
 GitHub Repository: https://github.com/Harmenlv/LieGeometricTrainability.git
 
 ---
