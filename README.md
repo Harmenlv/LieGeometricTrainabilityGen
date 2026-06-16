@@ -26,6 +26,7 @@ Two key figures are placed in the repository root directory to illustrate the co
 <p align="center"> <img src="framework.png" width="1000"> </p> <p align="center"> <img src="Generator_Structure.png" width="1000"> </p>
 
 1. framework.png : Core Theoretical Chain
+
 The complete causal logic of this work is summarized as follows:
 Generator Algebra
         ↓
@@ -45,9 +46,13 @@ Model Trainability
 - Sufficient gradient variance guarantees stable trainability of quantum models.
 2. Generator_Structure.png : Algebra Generator Design
 This figure shows two types of generator sets adopted in comparative experiments:
+
 ✅ Lie-Restricted Generators
+
 Composed of local single-qubit operators and two-qubit coupling operators, forming a polynomial-dimensional Lie subalgebra. Its dimension scales polynomially with the number of qubits.
+
 ✅ Full $$\mathfrak{su}(2^n)$$ Generators
+
 Consists of all Pauli tensor products (excluding global identity operator), forming the complete Lie algebra for $$n$$-qubit systems. Its dimension scales exponentially with the number of qubits.
 All comparative experiments are built on these two generator families.
 
