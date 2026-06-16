@@ -1,6 +1,3 @@
-下面是**完整、可一次性全选复制**的 GitHub 标准 `README.md` 内容，格式、公式、配图引用、命令、引用文献全部整理完毕，直接粘贴使用即可：
-
-```markdown
 # Lie-Geometric Trainability of Quantum Dynamical Systems
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
