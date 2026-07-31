@@ -166,12 +166,19 @@ python Main_con.py
 📝 Citation
 If you use this code or refer to this work in your research, please cite the following paper:
 @article{Shao2026LieTrainability,
+
   title={Lie-Geometric Trainability of Quantum Dynamical Systems: Avoiding Barren Plateaus via Low-Dimensional Lie Subalgebras},
+  
   author={Shao, Haijian and Wu, Yujie and Deng, Xing and Jiang, Yingtao},
+  
   journal={Physics Scripta},
+  
   year={2026},
+  
   doi={10.1088/1402-4896/ae7d6d},
+  
   url={https://iopscience.iop.org/article/10.1088/1402-4896/ae7d6d}
+  
 }
 
 ---
@@ -182,6 +189,10 @@ This project is licensed under the MIT License. See the LICENSE file for full li
 👨‍🔬 Academic Homepage
 For publications, citations, and research updates, please visit my Google Scholar profile:
 🔗 https://scholar.google.com/citations?user=d3mvChQAAAAJ&hl=en
+
 If you find this project useful in your research, I would greatly appreciate it if you cite my related publications.
+
 Thank you for your support and citations!
+
 Have a nice day!
+
