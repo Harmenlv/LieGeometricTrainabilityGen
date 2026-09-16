@@ -208,7 +208,3 @@ Thank you for your support and citations!
 🚀 Желаю хорошего дня! (Russian)
 
 🍃 愿你此行如风，自有繁花相送。 (Chinese)
-
-
-Have a nice day!
-
