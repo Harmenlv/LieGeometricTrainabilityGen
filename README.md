@@ -186,13 +186,29 @@ If you use this code or refer to this work in your research, please cite the fol
 This project is licensed under the MIT License. See the LICENSE file for full license text.
 
 ---
-👨‍🔬 Academic Homepage
+👨‍🔬 **Academic Homepage**
 For publications, citations, and research updates, please visit my Google Scholar profile:
 🔗 https://scholar.google.com/citations?user=d3mvChQAAAAJ&hl=en
 
 If you find this project useful in your research, I would greatly appreciate it if you cite my related publications.
-
 Thank you for your support and citations!
+
+❤️ Have a nice day! (English)
+
+🌸 素敵な一日を！ (Japanese)
+
+✨ Bonne journée ! (French)
+
+😊 ¡Que tengas un buen día! (Spanish)
+
+🌿 Einen schönen Tag noch! (German)
+
+☕ 좋은 하루 보내세요! (Korean)
+
+🚀 Желаю хорошего дня! (Russian)
+
+🍃 愿你此行如风，自有繁花相送。 (Chinese)
+
 
 Have a nice day!
 
